@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -File .\passwords_specific_requirements.ps1
